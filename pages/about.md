@@ -12,9 +12,9 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About Psychiana Demo - PK
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This demo collection features Psychiana demo metadata, and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) by PK.
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
@@ -28,6 +28,3 @@ The resulting static site can be hosted on any basic web server.
 See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
